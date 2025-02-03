@@ -1,4 +1,6 @@
-## Hi there 👋
+## I'm just a <sub>gorl.</sub>
+## Trying to learn the <sub>stuff.</sub>
+## Trying to do the <sub>things.</sub>
 
 <!--
 **Shannon-Hughes/Shannon-Hughes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
